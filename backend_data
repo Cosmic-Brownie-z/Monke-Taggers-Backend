@@ -4,7 +4,7 @@ E001=PlayFab authentication failed
 E002=Steam authentication failed
 E003=Photon authentication failed
 E004=Backend unreachable
-E005=Maintenance mode enabled
+E005=Lockdown in action, please try again later
 E006=Invalid client version
 
 B001=Account is temporarily banned
