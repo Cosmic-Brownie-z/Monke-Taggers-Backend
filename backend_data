@@ -1,4 +1,4 @@
-STATUS=Offline
+STATUS=Online
 
 E001=PlayFab authentication failed
 E002=Steam authentication failed
