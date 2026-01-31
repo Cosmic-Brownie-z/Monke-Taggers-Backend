@@ -2,7 +2,7 @@
 # MONKE TAGGERS BACKEND CONFIG
 # ================================
 
-STATUS=Online
+STATUS=Offline
 
 # -------- CONNECTION / SYSTEM ERRORS --------
 E001=PlayFab authentication failed
