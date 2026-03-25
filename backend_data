@@ -2,14 +2,14 @@
 # MONKE TAGGERS BACKEND CONFIG
 # ================================
 
-STATUS=Online
+STATUS=Offline
 
 # -------- CONNECTION / SYSTEM ERRORS --------
 E001=PlayFab authentication failed
 E002=Steam authentication failed
 E003=Photon authentication failed
 E004=Backend unreachable
-E005=Maintenance mode enabled
+E005=PLAYFAB SPAMMED, SERVERS DOWN TILL FURTHER NOTICE.
 E006=Invalid client version
 
 # -------- BAN ERROR CODES --------
